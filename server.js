@@ -67,4 +67,9 @@ app.get('/process', function(req, res){
   
 })
 
+app.get('/end', function(req, res){
+  process.exit(0);
+})
+
+
 app.listen(port, () => console.log('Listening on port %s', port));

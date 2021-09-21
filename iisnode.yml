@@ -1,2 +1,2 @@
 loggingEnabled: true
-nodeProcessCommandLine: node --prof server.js
+nodeProcessCommandLine: node --cpu-prof server.js

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample app replicating High CPU and Memory on Windows",
   "main": "server.js",
-  "author": "",
+  "author": "azureossd",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
